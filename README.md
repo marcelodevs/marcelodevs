@@ -40,9 +40,15 @@ IDEs:
 ![NetBeans](https://img.shields.io/badge/-NetBeans-red?style=flat-square&logo=netbeans&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Outras Tecnologias
+## ⚡ Outras Tecnologias
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+
+## ⚡ Estatísticas
+
+<a href="https://github.com/marcelodevs">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodevs&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodevs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
