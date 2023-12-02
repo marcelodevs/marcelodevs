@@ -8,8 +8,8 @@
 ## ⚡ Conecte-se comigo
 
 <p align="left">
-<a href="https://www.linkedin.com/in/marcelo-andrade-carneiro-119b3326a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jackciel felix" height="30" width="40" /></a>
-<a href="https://instagram.com/jakki_fx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakki_fx" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcelo-andrade-carneiro-119b3326a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Marcelo" height="30" width="40" /></a>
+<a href="https://instagram.com/jakki_fx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Insta Marcelo" height="30" width="40" /></a>
 </p>
 
 ## ⚡ Tecnologias
