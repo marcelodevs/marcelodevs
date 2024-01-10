@@ -20,6 +20,7 @@ Backend:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-2C2235?style=flat-square&logo=php)
+![Csharp](https://img.shields.io/badge/-CS-1572B6?style=flat-square&logo=c#)
 
 Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
