@@ -1,81 +1,67 @@
-<h1>Bem vindo(a) 👋</h1>
-<p>Meu nome é Marcelo de Andrade, sou <strong>desenvolvedor Back-end</strong> e trabalho com tecnologia desde 2022.</p>
-<p>Procuro uma oportunidade de colocar minhas habilidades em prática e aprimorá-las em uma empresa.</p>
+<h1 align="center">Olá, eu sou o Marcelo 👋</h1>
+<p align="center">Desenvolvedor Back-End focado em PHP/Laravel e apaixonado por tecnologia.</p>
 
-## 📍 Portfólio 📍
-<span>Em breve!</span>
+---
 
-## 📍 Conecte-se comigo 📍
+## 🎯 Sobre mim
 
-<p align="left">
-<a href="https://instagram.com/luck_mg16" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Insta Marcelo" width="30" height="30" /></a>
+- 💻 Trabalho com desenvolvimento web desde 2022.
+- 🔍 Busco minha primeira oportunidade profissional como dev back-end.
+- 🚀 Focado em PHP, Laravel, Java (Spring Boot) e bancos de dados relacionais.
+- 📚 Sempre estudando e criando projetos para evoluir minhas habilidades.
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+### 🖥️ Back-End
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="40" height="40"><path fill="#f0513f" d="M27.271.11c-.2.078-5.82 3.28-12.487 7.112-8.078 4.644-12.227 7.09-12.449 7.32-.19.225-.34.482-.438.76-.167.564-.179 82.985-.01 83.578.061.23.26.568.44.754.436.46 48.664 28.19 49.25 28.324.272.065.577.054.88-.03.658-.165 48.76-27.834 49.188-28.286.175-.195.375-.532.44-.761.084-.273.115-4.58.115-13.655v-13.26l11.726-6.735c11.056-6.357 11.733-6.755 12.017-7.191l.29-.47V43.287c0-15.548.03-14.673-.585-15.235-.165-.146-5.798-3.433-12.53-7.31L100.89 13.71h-1.359l-11.963 6.87c-6.586 3.788-12.184 7.027-12.457 7.203-.272.18-.597.512-.73.753l-.242.417-.054 13.455-.048 13.46-9.879 5.69c-5.434 3.124-9.957 5.71-10.053 5.734-.175.049-.187-1.232-.187-25.966V15.293l-.26-.447c-.326-.545 1.136.324-13.544-8.114C27.803-.348 28.098-.2 27.27.11zm11.317 10.307c5.15 2.955 9.364 5.4 9.364 5.43 0 .031-4.516 2.641-10.035 5.813l-10.041 5.765-10.023-5.764c-5.507-3.173-10.02-5.783-10.02-5.814 0-.03 4.505-2.64 10.013-5.805l9.999-5.752.69.376c3.357 1.907 6.708 3.824 10.053 5.751zm71.668 13.261c5.422 3.122 9.908 5.702 9.95 5.744.114.103-19.774 11.535-20.046 11.523-.272-.008-19.915-11.335-19.907-11.473.01-.157 19.773-11.527 19.973-11.496.091.022 4.607 2.59 10.03 5.702zM16.3 25.328l9.558 5.503.055 27.247.05 27.252.233.368c.122.194.352.459.52.581.158.115 5.477 3.146 11.818 6.724l11.52 6.506v11.527c0 6.326-.043 11.516-.097 11.516-.041 0-10-5.699-22.124-12.676L5.793 97.201l-.03-38.966-.019-38.954.49.271c.283.15 4.807 2.748 10.065 5.775zm33.754 19.18v25.109l-.387.253c-.525.332-19.667 11.335-19.732 11.335-.03 0-.054-11.336-.054-25.193l.012-25.182 10-5.752c5.499-3.165 10.034-5.733 10.088-5.714.039.024.073 11.34.073 25.144zm38.15-5.775 10.023 5.763V55.92c0 10.838-.011 11.42-.176 11.357-.107-.041-4.642-2.64-10.083-5.774l-9.91-5.69v-11.42c0-6.287.032-11.424.062-11.424.043 0 4.577 2.592 10.084 5.764zm34.164 5.587c0 6.254-.042 11.412-.084 11.462-.072.115-19.896 11.538-20.022 11.538-.031 0-.062-5.135-.062-11.423v-11.42l10-5.756c5.507-3.16 10.042-5.752 10.084-5.752.053 0 .084 5.105.084 11.351zM95.993 70.933 52.005 96.04 32.056 84.693S76 59.277 76.176 59.343zm2.215 14.827-.034 11.442-22.028 12.676c-12.12 6.976-22.082 12.675-22.132 12.675-.053 0-.095-4.658-.095-11.516V99.51l22.08-12.592c12.132-6.923 22.101-12.59 22.154-12.602.043 0 .062 5.148.054 11.443z"/></svg>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
 </p>
 
-## 📍 Tecnologias 📍
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+</p>
 
-Essas são algumas das tecnologias e ferramentas com as quais trabalho:
+### ⚙️ Ferramentas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</p>
 
-Backend: 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30" />
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30" />
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="30" height="30" />
-</a>
+---
 
-Frontend:
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30" />
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" />
-</a>
+## 🧪 Estudando atualmente
 
-Database:
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" />
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30" />
-</a>
+- 🐳 Docker  
+- ✅ Testes automatizados com PHPUnit  
+- 🔒 Segurança em aplicações web (XSS, CSRF)
 
-Tools:
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" />
-</a>
+---
 
-## 📍 Outras Tecnologias 📍
+## 📂 Portfólio
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30" />
-</a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30" />
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" />
-</a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30" />
-</a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30" />
-</a>
+> Em breve! Estou trabalhando em projetos para compartilhar aqui 💼
 
-## 📍 Estatísticas 📍
+---
 
-<a href="https://github.com/marcelodevs">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodevs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+## 📬 Contato
+
+- 📧 [Email](mailto:marcelo.devback@gmail.com)
+- 🌐 [GitHub](https://github.com/marcelodevs)
+- 📸 [Instagram](https://instagram.com/luck_mg16)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelodevs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
